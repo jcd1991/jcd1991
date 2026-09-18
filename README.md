@@ -24,12 +24,22 @@ Outside of work, I've built **EventYo**, a multi-city event discovery platform u
 - **[Flow Failure Monitor](https://github.com/jcd1991/flow-failure-monitor)** — Salesforce-native Flow observability with deliberately cautious recovery workflows.
 - **[Market Behavior Lab](https://github.com/jcd1991/market-behavior-lab)** — archived Python research into adaptive trading strategies and changing market regimes.
 
-## Tools I reach for
+## ⚙️ Things I code with
 
-- **Salesforce:** Apex · LWC · Flow · SOQL
-- **Web:** TypeScript · React · Next.js · Node.js
-- **Backend and data:** C# · .NET · Python · FastAPI · PostgreSQL/PostGIS · Redis
-- **Also:** system integration · cloud architecture · CI/CD · practical AI workflows
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Let's connect
 
