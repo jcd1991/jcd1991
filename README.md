@@ -4,7 +4,7 @@ I'm a technical lead who still likes getting into the code.
 
 I've spent 13+ years working across Salesforce, .NET, React, and enterprise systems—usually in the places where older platforms, newer applications, and real business workflows all have to cooperate.
 
-At Georgia-Pacific, I lead a team building the web and mobile platforms behind product catalogs, pricing, sample ordering, and distributor operations used by more than 6,000 people. A lot of my work comes down to integration and modernization: connecting Salesforce with SAP and other systems, replacing legacy applications, improving cloud and security architecture, and making software easier to maintain after years of change.
+I lead a team building web and mobile platforms behind product catalogs, pricing, sample ordering, and distributor operations used by more than 6,000 people. A lot of my work comes down to integration and modernization: connecting Salesforce with SAP and other systems, replacing legacy applications, improving cloud and security architecture, and making software easier to maintain after years of change.
 
 I like staying hands-on, helping teams make sensible technical decisions, and building systems that hold up over time.
 
@@ -33,4 +33,4 @@ Outside of work, I've built **EventYo**, a multi-city event discovery platform u
 
 ## Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/davis-clay-j/) · [SF Lens demo](https://jcd1991.github.io/sflens/) · [Repositories](https://github.com/jcd1991?tab=repositories)
+[EventYo](https://eventyo.com/) · [Nothing But Recipes](https://nothingbutrecipes.com/) · [LinkedIn](https://www.linkedin.com/in/davis-clay-j/) · [SF Lens demo](https://jcd1991.github.io/sflens/) · [Repositories](https://github.com/jcd1991?tab=repositories)
